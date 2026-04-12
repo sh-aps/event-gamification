@@ -13,7 +13,7 @@ export function SignUpForm() {
     firstName: "",
     lastName: "",
     email: "",
-    eventCode: "",
+    eventCode: "osday26",
     termsAccepted: false,
   })
   const [error, setError] = useState("")
